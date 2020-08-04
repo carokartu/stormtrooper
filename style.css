@@ -1,0 +1,56 @@
+
+body
+{
+    
+background-color: #FAFAFA;
+display: flex ;
+justify-content: center;
+align-items: center;
+height: 100%;
+text-align: center;
+}
+
+
+
+
+.padre-stormtrooper
+{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+ background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-top: 300px;
+    border-radius: 20px;
+    width: 800px;
+
+
+}
+
+
+.contenedor-izq
+
+{
+
+    background-color: red;
+
+
+
+}
+
+.contenedor-der
+{
+   
+    background-color: black;
+    color: white;
+}
+
+
+.producto {
+
+    display: block;
+    
+}
+
+
