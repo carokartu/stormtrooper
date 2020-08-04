@@ -111,3 +111,19 @@ h3{
 
 
 
+@media (max-width :1000px){ 
+
+html, body {
+
+    height: auto;
+}
+
+.padre-stormtrooper
+{
+    flex-direction: column;
+}
+
+..contenedor-der
+
+
+}
