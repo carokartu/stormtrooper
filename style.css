@@ -1,4 +1,10 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Oswald:wght@700&display=swap');
+ 
+ html,body
+ {
+     height: 100%;
+ }
 body
 {
     
@@ -16,24 +22,21 @@ text-align: center;
 .padre-stormtrooper
 {
     display: flex;
-    /* justify-content: center; */
     align-items: center;
- background-color: red;
-    width: 200px;
-    height: 200px;
-    margin-top: 300px;
-    border-radius: 20px;
-    width: 800px;
+    background-color:#810000;
+    height: auto;
+    border-radius: 80px;
+    width: 1200px;
+
 
 
 }
 
 
-.contenedor-izq
-
+.producto
 {
 
-    background-color: red;
+    background-color: #810000;
 
 
 
@@ -44,13 +47,67 @@ text-align: center;
    
     background-color: black;
     color: white;
+    text-align: left;
+    padding: 50px;
 }
 
 
 .producto {
 
     display: block;
+    width: 500px;
+    margin : 0px 40px
+}
+
+
+h1
+{
+ font-family: 'Oswald', sans-serif;
+ font-size: 35px;
+}
+
+.varios
+{
+    font-size:10px;
+    border-radius: 5px;
+    border: 2px solid #810000;
+    padding: 5px;
+}
+h3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+
+.descripcion-producto
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+.precio
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 10px;
+}
+.precio-número
+{
+    font-size: 35px;
+}
+.comprar
+{
+    color : #FAFAFA;
+    
     
 }
+.boton
+{
+    background-color: #810000;
+    text-decoration: none;
+    color : #FAFAFA;
+    border-radius: 50px;
+    background-color: #810000;
+    padding: 25px;
+}
+
 
 
