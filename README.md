@@ -1,6 +1,6 @@
 # Primer ejercicio responsive Stormtropeer 
 
-## descripcion
+## Descripcion
 
 Este es mi primer ejercicio con responsive. 
 Utilice HTML y CSS
