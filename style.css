@@ -50,6 +50,7 @@ text-align: center;
     color: white;
     text-align: left;
     padding: 50px;
+    border-radius: 0 80px 80px 0;
 }
 
 
@@ -128,6 +129,7 @@ html, body {
 ..contenedor-der
 {
 width: 500px;
+border-radius: 0px 0px 80px 80px;
 
 }
 
