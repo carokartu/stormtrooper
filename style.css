@@ -126,11 +126,10 @@ html, body {
     width: 500px;
 }
 
-..contenedor-der
+.contenedor-der
 {
 width: 500px;
 border-radius: 0px 0px 80px 80px;
-
 }
 
 .producto
@@ -143,7 +142,7 @@ border-radius: 0px 0px 80px 80px;
 {
     text-align: center;
 }
-}
+
 
 h1 {
     text-align: center;
@@ -152,4 +151,7 @@ h1 {
  
 .boton
 {margin-left: 130px;}
+
+
+
 }
